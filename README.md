@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Storybook Issue 20321
+
+For more information, see:
+[[Bug]: v7/csf3 stories are not recognized when functions generate the csf format](https://github.com/storybookjs/storybook/issues/20321)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) via:
 
